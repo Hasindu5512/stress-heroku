@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+wheel
+pandas
+opencv-python
+scikit-learn
+python-multipart
+tensorflow==2.12.0
+tensorflow_io==0.32.0
